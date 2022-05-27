@@ -1,1 +1,2 @@
 # OdinCalculator
+This is the calculator project from The Odin Project's foundational course. After completing this project, I have shown that I have achieved basic proficiency in HTML, CSS, and javascript. I did not complete the extra credit opportunities on this project as I am busy today, but may return to complete them and make this calculator not look so ugly in the future.
